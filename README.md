@@ -1,9 +1,10 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="180">
-      <img src="./profile/logo.png" width="160" alt="termdx logo" />
+    <td valign="middle" width="200">
+      <img src="./profile/logo.png" width="180" alt="termdx logo" />
     </td>
-    <td valign="top">
+    <td valign="middle" width="20"></td>
+    <td valign="middle">
       <h2>termdx</h2>
       <p>We build terminal-native developer tools that are fast, keyboard-driven, and respect the Unix philosophy.</p>
       <p>No electron wrappers. No context switching. No leaving the command line.</p>
